@@ -2,6 +2,7 @@
 
 This project is deprecated in favour of browser based flashing with [ESP Web Tools](https://github.com/esphome/esp-web-tools). For example: https://web.esphome.io
 
+TESTING 
 
 # ESPHome-Flasher
 
